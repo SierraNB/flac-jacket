@@ -1,0 +1,24 @@
+body {
+    background-color: #F3F1F5;
+    color: #1D1C1A;
+
+}
+.bigHeader {
+    font-size: 64px;
+    margin-left: 4%;
+}
+#content {
+    padding: 5px;
+    margin-right: 5%;
+    margin-left: 5%;
+    line-height: 1.5;
+    max-width: 75%;
+}
+#footer {
+    padding: 5px;
+    margin-right: 5%;
+    margin-left: 5%;
+    line-height: 1.5;
+    max-width: 75%;
+    font-size: small;
+}
